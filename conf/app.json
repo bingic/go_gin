@@ -1,0 +1,23 @@
+{
+  "app_name": "cloudreataurant",
+  "app_vmode": "debug",
+  "app_host": "localhost",
+  "app_port": "8090",
+  "sms":{
+    "sign_name": "xxx",
+    "template_code": "xxx",
+    "app_key": "xxx",
+    "app_secret": "xxx",
+    "region_id": "cn-hangzhou"
+  },
+  "database": {
+    "driver": "mysql",
+    "user": "root",
+    "password": "Ling001..",
+    "host": "127.0.0.1",
+    "port": "3306",
+    "db_name": "gin_sql",
+    "charset": "utf8",
+    "show_sql": true
+  }
+}
